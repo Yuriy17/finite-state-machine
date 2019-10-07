@@ -1,0 +1,7 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "undef": true,
+    "forin": true,
+    "devel": true
+}
